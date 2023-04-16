@@ -1,4 +1,5 @@
 # kodluyoruzilkrepo1
+![resim](https://github.com/AN-KABUT/kodluyoruzilkrepo1/blob/main/Screenshot%20(4).png)
 bu repo kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. içerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 # installation
